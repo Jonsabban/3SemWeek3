@@ -1,0 +1,11 @@
+entity\Owner.class
+entity\service\PetFacadeREST.class
+entity\Event.class
+entity\service\ApplicationConfig.class
+entity\service\OwnerFacadeREST.class
+entity\Owner_.class
+entity\service\EventFacadeREST.class
+entity\Event_.class
+entity\Pet.class
+entity\Pet_.class
+entity\service\AbstractFacade.class
