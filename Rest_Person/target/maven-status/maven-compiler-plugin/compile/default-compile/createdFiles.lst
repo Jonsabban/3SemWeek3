@@ -1,0 +1,8 @@
+facade\FacadeInterface.class
+sanox\rest_person\jpaControl.class
+rest\ApplicationConfig.class
+converter\JSONConverter.class
+entity\Person.class
+entity\Person_.class
+facade\Facade.class
+rest\RestPerson.class

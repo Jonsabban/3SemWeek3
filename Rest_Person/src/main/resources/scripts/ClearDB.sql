@@ -1,0 +1,4 @@
+DROP DATABASE restdb;
+CREATE DATABASE restdb;
+
+
