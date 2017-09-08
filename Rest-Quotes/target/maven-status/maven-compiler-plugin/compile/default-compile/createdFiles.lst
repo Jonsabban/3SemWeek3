@@ -1,0 +1,4 @@
+entity\EntityQuote.class
+sanox\rest\quotes\Quote.class
+sanox\rest\quotes\ApplicationConfig.class
+sanox\rest\quotes\Quote$1.class
